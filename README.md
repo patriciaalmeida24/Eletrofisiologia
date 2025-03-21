@@ -1,1 +1,2 @@
-# Eletrofisiologia
+# Eletrophysiology
+Detection of muscle contractions using electromyography (EMG). The goal was to automatically detect the onset of movement during a rhythmic contraction and relaxation task based on EMG data. The data provided included EMG readings from both hands and arms during finger abduction tasks. The subjects consisted of individuals with Amyotrophic Lateral Sclerosis (ALS) and a control group.
